@@ -1,4 +1,6 @@
-# meu-nuxt
+# Visualização em: 
+
+* https://clone-rocketseat-3e6tbs11a-callofnoob304.vercel.app
 
 ## Build Setup
 
